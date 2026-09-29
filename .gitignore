@@ -1,0 +1,28 @@
+# Keep only the documentation and Unity project requested for this repository.
+/*
+!.gitignore
+!docs/
+!docs/**
+!UnityMergePrototype/
+!UnityMergePrototype/**
+
+# macOS metadata.
+**/.DS_Store
+
+# Unity generated caches, logs, and local/editor state.
+UnityMergePrototype/[Ll]ibrary/
+UnityMergePrototype/[Tt]emp/
+UnityMergePrototype/[Ll]ogs/
+UnityMergePrototype/[Oo]bj/
+UnityMergePrototype/[Bb]uild/
+UnityMergePrototype/[Bb]uilds/
+UnityMergePrototype/[Uu]ser[Ss]ettings/
+UnityMergePrototype/[Mm]emoryCaptures/
+UnityMergePrototype/[Rr]ecordings/
+
+# Common local IDE metadata.
+UnityMergePrototype/.vs/
+UnityMergePrototype/.idea/
+UnityMergePrototype/*.csproj
+UnityMergePrototype/*.sln
+UnityMergePrototype/*.userprefs

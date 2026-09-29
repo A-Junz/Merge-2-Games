@@ -1,0 +1,27 @@
+{
+    "name": "MergePrototype.Tests.EditMode",
+    "rootNamespace": "MergePrototype.Tests.EditMode",
+    "references": [
+        "MergePrototype.Core",
+        "MergePrototype.Persistence",
+        "MergePrototype.Presentation",
+        "MergePrototype.Editor",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

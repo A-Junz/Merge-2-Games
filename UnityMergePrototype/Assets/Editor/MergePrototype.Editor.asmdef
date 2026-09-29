@@ -1,0 +1,20 @@
+{
+    "name": "MergePrototype.Editor",
+    "rootNamespace": "MergePrototype.EditorTools",
+    "references": [
+        "MergePrototype.Core",
+        "MergePrototype.Persistence",
+        "MergePrototype.Presentation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

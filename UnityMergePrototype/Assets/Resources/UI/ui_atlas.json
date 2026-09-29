@@ -1,0 +1,104 @@
+{
+  "source": "food-merge-level-ui-v4-closed-recipe-book.png",
+  "atlas": "ui_atlas.png",
+  "textureSize": {
+    "width": 1024,
+    "height": 1863
+  },
+  "sprites": {
+    "ui_top_status": {
+      "x": 0,
+      "y": 0,
+      "width": 805,
+      "height": 89
+    },
+    "ui_level_panel": {
+      "x": 0,
+      "y": 97,
+      "width": 585,
+      "height": 136
+    },
+    "ui_level_panel_base": {
+      "x": 0,
+      "y": 241,
+      "width": 424,
+      "height": 144
+    },
+    "ui_level_progress_track": {
+      "x": 432,
+      "y": 241,
+      "width": 316,
+      "height": 43
+    },
+    "ui_orders_header": {
+      "x": 756,
+      "y": 241,
+      "width": 230,
+      "height": 48
+    },
+    "ui_order_card_frame": {
+      "x": 0,
+      "y": 393,
+      "width": 274,
+      "height": 280
+    },
+    "ui_order_complete_badge": {
+      "x": 282,
+      "y": 393,
+      "width": 247,
+      "height": 54
+    },
+    "ui_reward_smile_chip": {
+      "x": 537,
+      "y": 393,
+      "width": 101,
+      "height": 58
+    },
+    "ui_reward_cash_chip": {
+      "x": 646,
+      "y": 393,
+      "width": 143,
+      "height": 58
+    },
+    "ui_board_frame_empty": {
+      "x": 0,
+      "y": 681,
+      "width": 819,
+      "height": 1033
+    },
+    "ui_board_cell_empty": {
+      "x": 827,
+      "y": 681,
+      "width": 113,
+      "height": 109
+    },
+    "ui_collection_closed_book": {
+      "x": 0,
+      "y": 1722,
+      "width": 105,
+      "height": 121
+    },
+    "ui_serve_items_button": {
+      "x": 113,
+      "y": 1722,
+      "width": 520,
+      "height": 133
+    }
+  },
+  "unityImport": {
+    "textureType": "Sprite (2D and UI)",
+    "meshType": "Full Rect",
+    "filterMode": "Bilinear",
+    "compression": "None or High Quality",
+    "sliced": [
+      "ui_level_panel_base",
+      "ui_level_progress_track",
+      "ui_orders_header",
+      "ui_order_card_frame",
+      "ui_order_complete_badge",
+      "ui_board_frame_empty",
+      "ui_board_cell_empty",
+      "ui_serve_items_button"
+    ]
+  }
+}

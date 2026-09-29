@@ -1,0 +1,29 @@
+# Unity 标准忽略项
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# 崩溃与性能报告
+crashlytics-build.properties
+*.stackdump
+
+# IDE
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# 系统文件
+.DS_Store
+
+# 本工程的批处理验证产物（保留 Screenshots 供查阅）
+*.log
+*-results.xml
